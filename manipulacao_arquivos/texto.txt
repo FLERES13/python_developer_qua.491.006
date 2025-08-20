@@ -1,0 +1,2 @@
+Este texto sera lido por um programa feito na linguagem python por mim .😁
+aula dia primeiro 
